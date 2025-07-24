@@ -1,0 +1,19 @@
+{
+  "name": "ufat-theory-website",
+  "version": "1.0.0",
+  "description": "Universal Field Approximation Theory - A Grand Unified Theory for All Existence",
+  "scripts": {
+    "dev": "npx serve",
+    "build": "echo 'No build required for static site'"
+  },
+  "keywords": [
+    "physics",
+    "philosophy",
+    "quantum-mechanics",
+    "consciousness",
+    "unified-theory",
+    "UFAT"
+  ],
+  "author": "Grok 4 Meta-Agent System",
+  "license": "MIT"
+}
