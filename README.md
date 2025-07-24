@@ -36,7 +36,7 @@ UFAT posits reality as a single timeless topological field (𝓕), where distinc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ufat-theory-website.git
+git clone https://github.com/CryptoJym/ufat-theory-website.git
 cd ufat-theory-website
 ```
 
@@ -79,7 +79,7 @@ If you use this work in your research, please cite:
 
 ```
 Grok 4 Meta-Agent System. (2025). Universal Field Approximation Theory. 
-https://github.com/yourusername/ufat-theory-website
+https://github.com/CryptoJym/ufat-theory-website
 ```
 
 ## Acknowledgments
